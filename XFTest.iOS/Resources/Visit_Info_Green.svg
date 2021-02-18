@@ -1,0 +1,12 @@
+<svg id="visit_info" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="streamline-icon-common-file-text-info_16x16" data-name="streamline-icon-common-file-text-info@16x16" transform="translate(1.5 1.5)">
+    <path id="Path_426" data-name="Path 426" d="M11.5,7.5a4,4,0,1,1-4,4A4,4,0,0,1,11.5,7.5Z" transform="translate(-0.5 -0.5)" fill="none" stroke="#25a87b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_427" data-name="Path 427" d="M11.5,13.5v-2" transform="translate(-0.5 -0.5)" fill="none" stroke="#25a87b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_428" data-name="Path 428" d="M11.5,9.541a.25.25,0,1,0,.25.25.25.25,0,0,0-.25-.25h0" transform="translate(-0.5 -0.5)" fill="none" stroke="#25a87b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_429" data-name="Path 429" d="M2.5,4.5h7" transform="translate(-0.5 -0.5)" fill="none" stroke="#25a87b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_430" data-name="Path 430" d="M2.5,7.5h4" transform="translate(-0.5 -0.5)" fill="none" stroke="#25a87b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_431" data-name="Path 431" d="M2.5,10.5H5" transform="translate(-0.5 -0.5)" fill="none" stroke="#25a87b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_432" data-name="Path 432" d="M5,13.5H1.5a1,1,0,0,1-1-1V1.5a1,1,0,0,1,1-1H8.586a1,1,0,0,1,.707.293l1.915,1.915a1,1,0,0,1,.293.707V5" transform="translate(-0.5 -0.5)" fill="none" stroke="#25a87b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+  <rect id="Rectangle_100" data-name="Rectangle 100" width="18" height="18" fill="none"/>
+</svg>

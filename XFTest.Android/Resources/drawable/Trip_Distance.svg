@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.191" viewBox="0 0 16 16.191">
+  <g id="streamline-icon-trip-distance_16x16" data-name="streamline-icon-trip-distance@16x16" transform="translate(0 0)">
+    <path id="Path_392" data-name="Path 392" d="M15.5,3c0,1.133-1.691,3.785-2.291,4.691a.249.249,0,0,1-.347.07.242.242,0,0,1-.07-.07C12.191,6.786,10.5,4.133,10.5,3a2.5,2.5,0,0,1,5,0Z" fill="none" stroke="#849a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_393" data-name="Path 393" d="M13,2.75a.25.25,0,0,1,.25.25" fill="none" stroke="#849a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_394" data-name="Path 394" d="M12.75,3A.25.25,0,0,1,13,2.75" fill="none" stroke="#849a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_395" data-name="Path 395" d="M13,3.25A.25.25,0,0,1,12.75,3" fill="none" stroke="#849a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_396" data-name="Path 396" d="M13.25,3a.25.25,0,0,1-.25.25" fill="none" stroke="#849a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_397" data-name="Path 397" d="M3.5,8.25a.25.25,0,0,1,.25.25" fill="none" stroke="#849a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_398" data-name="Path 398" d="M3.25,8.5a.25.25,0,0,1,.25-.25" fill="none" stroke="#849a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_399" data-name="Path 399" d="M3.5,8.75a.25.25,0,0,1-.25-.25" fill="none" stroke="#849a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_400" data-name="Path 400" d="M3.75,8.5a.25.25,0,0,1-.25.25" fill="none" stroke="#849a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_401" data-name="Path 401" d="M3.5,5.5a3,3,0,0,1,3,3c0,1.281-1.792,3.718-2.606,4.759a.5.5,0,0,1-.788,0C2.292,12.217.5,9.781.5,8.5A3,3,0,0,1,3.5,5.5Z" fill="none" stroke="#849a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_402" data-name="Path 402" d="M4.5,15.5,13,10" fill="none" stroke="#849a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
